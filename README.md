@@ -21,7 +21,7 @@ as this notebook links to my own Google Drive.
 <br>
 <b>alice_url</b> : ensure it links to AlicesAdvanturesInWonderland.txt
 <br>
-<b>coraline_url : ensure it links to Coraline.pdf
+<b>coraline_url</b> : ensure it links to Coraline.pdf
 <br>
 <b>checkpoint_url</b> : any location to save model's checkpoint after training
 <br>
