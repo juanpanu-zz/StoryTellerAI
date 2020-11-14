@@ -8,6 +8,9 @@ IMPORTANT NOTES
 
 Please replace the following variables in the notebook with the .txt files in the repository,as this notebook links to my own Google Drive.
 fairytales_url : ensure it links to FairytalesByTheBrothersGrimm.txt
+
 alice_url : ensure it links to AlicesAdvanturesInWonderland.txt
+
 coraline_url : ensure it links to Coraline.pdf
+
 checkpoint_url : any location to save model's checkpoint after training
