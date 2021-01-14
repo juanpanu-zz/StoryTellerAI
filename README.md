@@ -22,6 +22,8 @@ as this notebook links to my own Google Drive.
 <br>
 <b>checkpoint_url</b> : any location to save model's checkpoint after training
 <br>
+This is a Work in progress, in the future i'll come to optimize this network for maximum accuracy.
 <br>
+
 
 
